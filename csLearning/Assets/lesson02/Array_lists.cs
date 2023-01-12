@@ -26,6 +26,6 @@ public class Array_lists : MonoBehaviour
         // Debug.Log("Length of an Array: " + RollNumbers.Length);
         
         myList.Add(22);
-        Debug.Log("myList count: " + myList.Count);
+        Debug.Log("myList count: " + myList.Count);         
     }
 }
